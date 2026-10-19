@@ -265,7 +265,7 @@ A full walkthrough of the dashboard is available as a video. Click the image or 
 
 | File | Description |
 | :--- | :--- |
-| 📊 [**Cars Dashboard.pbix**](Cars%20Dashboard.pbix?raw=true) | The Power BI report file. Open it with **Power BI Desktop**. |
+| 📊 [**Cars Dashboard.pbix**](Cars%20Dashboard.pbix) | The Power BI report file. Open it with **Power BI Desktop**. |
 | 🎬 [**BMW Cars Dashboard.mp4**](BMW%20Cars%20Dashboard.mp4) | Video walkthrough of the project. |
 | 📁 [BMW_Car_Sales_Classification.csv](BMW_Car_Sales_Classification.csv) | The source dataset. |
 
