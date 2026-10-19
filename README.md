@@ -44,49 +44,49 @@ Each model has its own dedicated page with the same layout, which makes it easy 
 
 ### 1. Home Page
 <p align="center">
-  <img src="D1_564a1d.PNG" alt="Home Page" width="90%" />
+  <img src="D1.PNG" alt="Home Page" width="90%" />
 </p>
 
 > *The landing page with the BMW logo and a navigation menu listing every model: i8, M3, X3, X6, M5, and X5.*
 
 ### 2. BMW i8
 <p align="center">
-  <img src="D2_e03114.PNG" alt="BMW i8 Dashboard" width="90%" />
+  <img src="D2.PNG" alt="BMW i8 Dashboard" width="90%" />
 </p>
 
 > *KPIs, transmission split, and price by color for the BMW i8.*
 
 ### 3. BMW M3
 <p align="center">
-  <img src="D3_1970d2.PNG" alt="BMW M3 Dashboard" width="90%" />
+  <img src="D3.PNG" alt="BMW M3 Dashboard" width="90%" />
 </p>
 
 > *The same layout for the BMW M3, with its own color theme.*
 
 ### 4. BMW X3
 <p align="center">
-  <img src="D4_7cdfbe.PNG" alt="BMW X3 Dashboard" width="90%" />
+  <img src="D4.PNG" alt="BMW X3 Dashboard" width="90%" />
 </p>
 
 > *KPIs, transmission split, and price by color for the BMW X3.*
 
 ### 5. BMW X6
 <p align="center">
-  <img src="D5_d74eef.PNG" alt="BMW X6 Dashboard" width="90%" />
+  <img src="D5.PNG" alt="BMW X6 Dashboard" width="90%" />
 </p>
 
 > *KPIs, transmission split, and price by color for the BMW X6.*
 
 ### 6. BMW M5
 <p align="center">
-  <img src="D6_1.PNG" alt="BMW M5 Dashboard" width="90%" />
+  <img src="D6.PNG" alt="BMW M5 Dashboard" width="90%" />
 </p>
 
 > *KPIs, transmission split, and price by color for the BMW M5.*
 
 ### 7. BMW X5
 <p align="center">
-  <img src="D7_1.PNG" alt="BMW X5 Dashboard" width="90%" />
+  <img src="D7.PNG" alt="BMW X5 Dashboard" width="90%" />
 </p>
 
 > *KPIs, transmission split, and price by color for the BMW X5.*
@@ -253,7 +253,7 @@ A full walkthrough of the dashboard is available as a video. Click the image or 
 
 <p align="center">
   <a href="BMW%20Cars%20Dashboard.mp4">
-    <img src="D1_564a1d.PNG" alt="Watch the project demo video" width="60%" />
+    <img src="D1.PNG" alt="Watch the project demo video" width="60%" />
   </a>
   <br />
   <b>▶️ <a href="BMW%20Cars%20Dashboard.mp4">Watch the demo video</a></b>
@@ -279,13 +279,13 @@ A full walkthrough of the dashboard is available as a video. Click the image or 
  ┣ 📊 Cars Dashboard.pbix
  ┣ 🎬 BMW Cars Dashboard.mp4
  ┣ 📄 BMW_Car_Sales_Classification.csv
- ┣ 🖼️ D1_564a1d.PNG  (Home)
- ┣ 🖼️ D2_e03114.PNG  (i8)
- ┣ 🖼️ D3_1970d2.PNG  (M3)
- ┣ 🖼️ D4_7cdfbe.PNG  (X3)
- ┣ 🖼️ D5_d74eef.PNG  (X6)
- ┣ 🖼️ D6_1.PNG  (M5)
- ┗ 🖼️ D7_1.PNG  (X5)
+ ┣ 🖼️ D1.PNG  (Home)
+ ┣ 🖼️ D2.PNG  (i8)
+ ┣ 🖼️ D3.PNG  (M3)
+ ┣ 🖼️ D4.PNG  (X3)
+ ┣ 🖼️ D5.PNG  (X6)
+ ┣ 🖼️ D6.PNG  (M5)
+ ┗ 🖼️ D7.PNG  (X5)
 ```
 
 ---
